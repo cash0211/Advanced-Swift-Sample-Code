@@ -12,6 +12,16 @@
 		C92E70A222447F9E0025AD01 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C92E70A022447F9E0025AD01 /* Main.storyboard */; };
 		C92E70A422447FA00025AD01 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C92E70A322447FA00025AD01 /* Assets.xcassets */; };
 		C92E70A722447FA00025AD01 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C92E70A522447FA00025AD01 /* LaunchScreen.storyboard */; };
+		C92E70B9224480240025AD01 /* AdvanceSwift_Optional.swift in Sources */ = {isa = PBXBuildFile; fileRef = C92E70AF224480230025AD01 /* AdvanceSwift_Optional.swift */; };
+		C92E70BA224480240025AD01 /* AdvanceSwift_Error.swift in Sources */ = {isa = PBXBuildFile; fileRef = C92E70B0224480230025AD01 /* AdvanceSwift_Error.swift */; };
+		C92E70BB224480240025AD01 /* AdvanceSwift_Sequence_Collection.swift in Sources */ = {isa = PBXBuildFile; fileRef = C92E70B1224480230025AD01 /* AdvanceSwift_Sequence_Collection.swift */; };
+		C92E70BC224480240025AD01 /* AdvanceSwift_Protocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = C92E70B2224480240025AD01 /* AdvanceSwift_Protocol.swift */; };
+		C92E70BD224480240025AD01 /* AdvanceSwift_Generics.swift in Sources */ = {isa = PBXBuildFile; fileRef = C92E70B3224480240025AD01 /* AdvanceSwift_Generics.swift */; };
+		C92E70BE224480240025AD01 /* AdvanceSwift_Encoding_Decoding_Class.swift in Sources */ = {isa = PBXBuildFile; fileRef = C92E70B4224480240025AD01 /* AdvanceSwift_Encoding_Decoding_Class.swift */; };
+		C92E70BF224480240025AD01 /* AdvanceSwift_Function.swift in Sources */ = {isa = PBXBuildFile; fileRef = C92E70B5224480240025AD01 /* AdvanceSwift_Function.swift */; };
+		C92E70C0224480240025AD01 /* AdvanceSwift_String.swift in Sources */ = {isa = PBXBuildFile; fileRef = C92E70B6224480240025AD01 /* AdvanceSwift_String.swift */; };
+		C92E70C1224480240025AD01 /* AdvanceSwift_Struct_Class.swift in Sources */ = {isa = PBXBuildFile; fileRef = C92E70B7224480240025AD01 /* AdvanceSwift_Struct_Class.swift */; };
+		C92E70C2224480240025AD01 /* AdvanceSwift_Array_Dict_Set.swift in Sources */ = {isa = PBXBuildFile; fileRef = C92E70B8224480240025AD01 /* AdvanceSwift_Array_Dict_Set.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +32,16 @@
 		C92E70A322447FA00025AD01 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C92E70A622447FA00025AD01 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C92E70A822447FA00025AD01 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C92E70AF224480230025AD01 /* AdvanceSwift_Optional.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdvanceSwift_Optional.swift; sourceTree = "<group>"; };
+		C92E70B0224480230025AD01 /* AdvanceSwift_Error.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdvanceSwift_Error.swift; sourceTree = "<group>"; };
+		C92E70B1224480230025AD01 /* AdvanceSwift_Sequence_Collection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdvanceSwift_Sequence_Collection.swift; sourceTree = "<group>"; };
+		C92E70B2224480240025AD01 /* AdvanceSwift_Protocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdvanceSwift_Protocol.swift; sourceTree = "<group>"; };
+		C92E70B3224480240025AD01 /* AdvanceSwift_Generics.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdvanceSwift_Generics.swift; sourceTree = "<group>"; };
+		C92E70B4224480240025AD01 /* AdvanceSwift_Encoding_Decoding_Class.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdvanceSwift_Encoding_Decoding_Class.swift; sourceTree = "<group>"; };
+		C92E70B5224480240025AD01 /* AdvanceSwift_Function.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdvanceSwift_Function.swift; sourceTree = "<group>"; };
+		C92E70B6224480240025AD01 /* AdvanceSwift_String.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdvanceSwift_String.swift; sourceTree = "<group>"; };
+		C92E70B7224480240025AD01 /* AdvanceSwift_Struct_Class.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdvanceSwift_Struct_Class.swift; sourceTree = "<group>"; };
+		C92E70B8224480240025AD01 /* AdvanceSwift_Array_Dict_Set.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdvanceSwift_Array_Dict_Set.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +74,24 @@
 		C92E709B22447F9E0025AD01 /* Advanced-Swift-Sample-Code */ = {
 			isa = PBXGroup;
 			children = (
+				C92E70B8224480240025AD01 /* AdvanceSwift_Array_Dict_Set.swift */,
+				C92E70B1224480230025AD01 /* AdvanceSwift_Sequence_Collection.swift */,
+				C92E70AF224480230025AD01 /* AdvanceSwift_Optional.swift */,
+				C92E70B7224480240025AD01 /* AdvanceSwift_Struct_Class.swift */,
+				C92E70B4224480240025AD01 /* AdvanceSwift_Encoding_Decoding_Class.swift */,
+				C92E70B5224480240025AD01 /* AdvanceSwift_Function.swift */,
+				C92E70B6224480240025AD01 /* AdvanceSwift_String.swift */,
+				C92E70B0224480230025AD01 /* AdvanceSwift_Error.swift */,
+				C92E70B3224480240025AD01 /* AdvanceSwift_Generics.swift */,
+				C92E70B2224480240025AD01 /* AdvanceSwift_Protocol.swift */,
+				C92E70AE22447FB00025AD01 /* dummy */,
+			);
+			path = "Advanced-Swift-Sample-Code";
+			sourceTree = "<group>";
+		};
+		C92E70AE22447FB00025AD01 /* dummy */ = {
+			isa = PBXGroup;
+			children = (
 				C92E709C22447F9E0025AD01 /* AppDelegate.swift */,
 				C92E709E22447F9E0025AD01 /* ViewController.swift */,
 				C92E70A022447F9E0025AD01 /* Main.storyboard */,
@@ -61,7 +99,7 @@
 				C92E70A522447FA00025AD01 /* LaunchScreen.storyboard */,
 				C92E70A822447FA00025AD01 /* Info.plist */,
 			);
-			path = "Advanced-Swift-Sample-Code";
+			path = dummy;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -135,8 +173,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C92E70BB224480240025AD01 /* AdvanceSwift_Sequence_Collection.swift in Sources */,
+				C92E70C0224480240025AD01 /* AdvanceSwift_String.swift in Sources */,
+				C92E70BD224480240025AD01 /* AdvanceSwift_Generics.swift in Sources */,
+				C92E70B9224480240025AD01 /* AdvanceSwift_Optional.swift in Sources */,
+				C92E70BF224480240025AD01 /* AdvanceSwift_Function.swift in Sources */,
+				C92E70C2224480240025AD01 /* AdvanceSwift_Array_Dict_Set.swift in Sources */,
+				C92E70BE224480240025AD01 /* AdvanceSwift_Encoding_Decoding_Class.swift in Sources */,
 				C92E709F22447F9E0025AD01 /* ViewController.swift in Sources */,
 				C92E709D22447F9E0025AD01 /* AppDelegate.swift in Sources */,
+				C92E70BC224480240025AD01 /* AdvanceSwift_Protocol.swift in Sources */,
+				C92E70BA224480240025AD01 /* AdvanceSwift_Error.swift in Sources */,
+				C92E70C1224480240025AD01 /* AdvanceSwift_Struct_Class.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -283,6 +331,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = NRAB676Z8G;
 				INFOPLIST_FILE = "Advanced-Swift-Sample-Code/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -300,6 +349,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = NRAB676Z8G;
 				INFOPLIST_FILE = "Advanced-Swift-Sample-Code/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
